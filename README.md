@@ -1,6 +1,8 @@
 # Baysian_AB
 
-Created an AB test using R to understand what AB testing really is on a hypothetical marketing problem
+Created an AB test using R to understand how AB testing works on a hypothetical marketing problem.
+How Bayesian AB testing is different from frequentist AB testing. 
+
 
 The marketing department of an American based IT services provider has two versions for their home page
 
